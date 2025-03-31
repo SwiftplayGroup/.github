@@ -1,5 +1,5 @@
 Team
-* Aiden Jastrzembski: Frontend lead, backend
+* Aiden Jastrzembski: Frontend lead, mobile lead, backend
 * Bennett Rauscher: Backend
 * Michael Strange: Backend
 * Christian Toney: Project manager, backend lead, frontend 
