@@ -1,6 +1,6 @@
 # Scope
 Swiftplay is a platform for:
-* ...**players** to submit their fastest playthroughs of games
+* ...**players** to share strategies for completing games as fast as possible
 * ...**developers and publishers** to drive engagement by encouraging others to play their games in creative ways
 * ...**viewers** to get inspired by diverse methods of completing games
 
